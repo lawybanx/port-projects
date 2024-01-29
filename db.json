@@ -14,7 +14,7 @@
       "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1706536412/lendsqr_rjziae.png",
       "title": "Lendsqr dashboard",
       "descr": " Lorem ipsum dolor sit amet consectetur adipisicing elit",
-      "lang": ["Nextjs", "SCSS", "Typescript"],
+      "lang": ["Nextjs", "SCSS", "Typescript", "React-Paginate"],
       "live": "https://awwal-bankole-lendsqr-fe-test.vercel.app/",
       "repo": "https://github.com/lawybanx/lendsqr-fe-test"
     },
@@ -50,7 +50,7 @@
       "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1706536797/Devconnector_buhhbb.png",
       "title": "Devconnector",
       "descr": " Lorem ipsum dolor sit amet consectetur adipisicing elit",
-      "lang": ["Reactjs", "Ndoejs", "Github API"],
+      "lang": ["Reactjs", "Nodejs", "Github API"],
       "live": "https://devconnector-fb0e.onrender.com/",
       "repo": "https://github.com/lawybanx/devconnector-mern"
     }
