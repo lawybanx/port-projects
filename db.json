@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1701899326/chatter_vtmvzz.png",
+      "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1706536413/portfolio_egjboq.png",
       "title": "chatter",
       "descr": " Lorem ipsum dolor sit amet consectetur adipisicing elit",
       "lang": ["Reactjs", "ChakraUI", "Typescript"],
@@ -29,7 +29,7 @@
     },
     {
       "id": "4",
-      "image": "https://images.unsplash.com/photo-1580477371194-4593e3c7c6cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1706536412/teachmate_ypk7jy.png",
       "title": "chatter",
       "descr": " Lorem ipsum dolor sit amet consectetur adipisicing elit",
       "lang": ["Reactjs", "ChakraUI", "Typescript"],
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1701899320/my-repos_e5oxxz.png",
+      "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1706536412/lendsqr_rjziae.png",
       "title": "chatter",
       "descr": " Lorem ipsum dolor sit amet consectetur adipisicing elit",
       "lang": ["Reactjs", "ChakraUI", "Typescript"],
@@ -47,7 +47,7 @@
     },
     {
       "id": "6",
-      "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1701899326/chatter_vtmvzz.png",
+      "image": "https://res.cloudinary.com/dbrukzcby/image/upload/v1706536797/Devconnector_buhhbb.png",
       "title": "chatter",
       "descr": " Lorem ipsum dolor sit amet consectetur adipisicing elit",
       "lang": ["Reactjs", "ChakraUI", "Typescript"],
